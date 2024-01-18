@@ -7,12 +7,12 @@ O site tem como objetivo ser totalmente funcional e suprir a necessidade de uma 
 planilha do excel, as inscrições de membros que se cadastrarem para participar de um evento da igreja (retiro espiritual). 
 
 <h2>Conhecimentos Aplicados:</h2>:
-- Python;
-- Flask
-- HTML
-- CSS
-- Deploy
-- Git 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 > ![local 1](https://private-user-images.githubusercontent.com/30299327/297838158-939d5f5c-3c3b-4644-b626-736379cfbdbd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU2MDEzNTcsIm5iZiI6MTcwNTYwMTA1NywicGF0aCI6Ii8zMDI5OTMyNy8yOTc4MzgxNTgtOTM5ZDVmNWMtM2MzYi00NjQ0LWI2MjYtNzM2Mzc5Y2ZiZGJkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE4VDE4MDQxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0ZjBlNTU1ZDU0NjcwMzBjNGE3Y2ZkYTEzYzBjYmRmYmJhZTIyYjE0MWNiZDQxYjNlMTIwN2JkMDBlODJmMGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KV53pl4Fy2pROcE6zYKbt3n_IFkbjsdDZW2ox9jLjj8)
 
