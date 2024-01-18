@@ -14,3 +14,4 @@ planilha do excel, as inscrições de membros que se cadastrarem para participar
 - Deploy
 - Git 
 
+https://github.com/brenersouzaa/site-cadastro/issues/1#issue-2088801715
