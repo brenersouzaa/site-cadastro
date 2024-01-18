@@ -1,4 +1,4 @@
-<h1 align="center">Site de Cadastro Construído em Python, Flask, HTML e CSS</h1>
+<h1 align="center">Site de Cadastro (responsivo) Construído em Python com Flask</h1>
 
 <body>
 <ol>
